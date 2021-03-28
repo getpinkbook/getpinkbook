@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @getpinkbook
 - 👀 I’m interested in AWS Exams
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently publishing new practice exams https://www.udemy.com/user/pink-book/
 - 💞️ I’m looking to collaborate on pinkbooks
 - 📫 How to reach me - getpinkbook@gmail.com
 
